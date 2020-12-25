@@ -1,0 +1,44 @@
+name: social_shopping
+description: A new Flutter application.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+
+  flutter_speed_dial: ^1.2.5
+  connectivity: ^2.0.2
+  smooth_star_rating: ^1.1.1
+  jalali_date: ^0.1.5
+
+  carousel_pro: ^1.0.0
+  flutter_bloc: ^6.0.1
+  flutter:
+    sdk: flutter
+
+
+
+  cupertino_icons: ^1.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+
+  uses-material-design: true
+
+
+
+  assets:
+    - assets/a.png
+    - assets/c.png
+    - assets/logo.png
+    - assets/poker.jpg
+    - assets/background.jpg
+
